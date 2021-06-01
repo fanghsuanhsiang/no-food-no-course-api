@@ -5,8 +5,10 @@ API provide connection of Database with APP
 
 Built with: JavaScript, MVC, Node.js, Express, RESTful APIs, MongoDB Atlas, Mongoose ODM, Microsoft Azure, Postman
 <div style="float:left">
+  <div style="width=33%">
   <div>使用者訂單紀錄</div>
-  <img src="https://github.com/fanghsuanhsiang/no-food-no-course-api/blob/master/image/%E4%BD%BF%E7%94%A8%E8%80%85%E8%A8%82%E5%96%AE%E7%B4%80%E9%8C%84.jpg" width="33%">
+  <img src="https://github.com/fanghsuanhsiang/no-food-no-course-api/blob/master/image/%E4%BD%BF%E7%94%A8%E8%80%85%E8%A8%82%E5%96%AE%E7%B4%80%E9%8C%84.jpg">
+  </div>
   <div>店家支付訂單確認</div>
   <img src="https://github.com/fanghsuanhsiang/no-food-no-course-api/blob/master/image/%E5%BA%97%E5%AE%B6%E6%94%AF%E4%BB%98%E8%A8%82%E5%96%AE%E7%A2%BA%E8%AA%8D.jpg"      width="33%">
   <div>店家點餐</div>
