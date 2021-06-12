@@ -1,4 +1,8 @@
 # no-food-no-course-api
+Customer: github.com/leechenghsiu/no-food-no-course 
+Vendor/Restaurant: github.com/leechenghsiu/no-food-no-course-vendor
+
+
 Mobile app to reserve meals with restaurants: signup/login, food selection & ordering, mobile payment QR codes, vendor POS (Point of Sale), scanner, etc.
 
 API provide connection of Database with APP
